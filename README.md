@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Electro Charger</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #222;
+      background: linear-gradient(to bottom, #e6f7ff, #ffffff);
+    }
+    header {
+      background: linear-gradient(90deg, #0044cc, #00c3ff);
+      color: white;
+      padding: 40px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    }
+    header p {
+      font-size: 18px;
+    }
+    section {
+      padding: 30px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #0044cc;
+      border-left: 5px solid #00c3ff;
+      padding-left: 10px;
+    }
+    ul {
+      background: #f0faff;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    ul li {
+      margin: 10px 0;
+    }
+    .imagen {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .imagen img {
+      width: 400px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+    .boton-whatsapp {
+      display: block;
+      margin: 30px auto;
+      padding: 15px 30px;
+      font-size: 18px;
+      background: linear-gradient(90deg, #25d366, #128c7e);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+      text-align: center;
+      width: 250px;
+    }
+    .boton-whatsapp:hover {
+      background: linear-gradient(90deg, #2fe37a, #0e5c4a);
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bienvenidos al mundo del Electro Charger</h1>
+    <p>El enchufe inteligente que corta la energía automáticamente cuando tu dispositivo está cargado 🔋⚡</p>
+  </header>
+
+  <section>
+    <div class="imagen">
+      <img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/smart-home-1958045_960_720.jpg" alt="Enchufe inteligente">
+    </div>
+
+    <h2>¿Qué es Electro Charger?</h2>
+    <p>
+      <b>Electro Charger</b> es un enchufe tecnológico de nueva generación.  
+      Su objetivo es cuidar tus dispositivos, tu seguridad y tu bolsillo.  
+      Gracias a su sistema inteligente, corta el paso de energía cuando detecta que tu dispositivo está completamente cargado.
+    </p>
+
+    <h2>Beneficios principales</h2>
+    <ul>
+      <li>🔋 <b>Ahorro de energía:</b> evita el gasto fantasma que ocurre al dejar el cargador conectado.</li>
+      <li>🛡️ <b>Protección de la batería:</b> prolonga la vida útil de tus dispositivos electrónicos.</li>
+      <li>🔥 <b>Seguridad total:</b> reduce el riesgo de sobrecalentamiento y accidentes eléctricos.</li>
+      <li>🌍 <b>Sostenibilidad:</b> contribuye a un mundo más limpio y responsable con la energía.</li>
+      <li>😴 <b>Comodidad:</b> carga segura mientras duermes sin preocuparte de desconectar.</li>
+    </ul>
+
+    <h2>¿Cómo funciona?</h2>
+    <p>
+      Solo debes conectar tu cargador al <b>Electro Charger</b>.  
+      Este monitorea en tiempo real la corriente y desconecta la energía cuando el dispositivo alcanza el 100%.  
+      Todo el proceso es automático, seguro y eficiente.
+    </p>
+
+    <div class="imagen">
+      <img src="https://cdn.pixabay.com/photo/2018/02/27/16/57/electricity-3186076_960_720.jpg" alt="Tecnología de carga">
+    </div>
+
+    <h2>Aplicaciones ideales</h2>
+    <p>
+      Este dispositivo es ideal para:  
+      - Celulares 📱  
+      - Tablets 💻  
+      - Laptops 💼  
+      - Relojes inteligentes ⌚  
+      - Auriculares inalámbricos 🎧  
+    </p>
+
+    <h2>Próximamente</h2>
+    <p>
+      La siguiente versión de Electro Charger integrará conexión <b>WiFi</b> y una aplicación móvil
+      que permitirá ver estadísticas de ahorro energético, programar apagados remotos
+      y recibir notificaciones en tu celular.
+    </p>
+
+    <h2>Únete a nuestra comunidad</h2>
+    <p>
+      Si quieres conocer más sobre Electro Charger, resolver tus dudas y ser parte de nuestra comunidad de usuarios,
+      únete a nuestro grupo de WhatsApp haciendo clic en el siguiente botón:
+    </p>
+
+    <a class="boton-whatsapp" href="https://chat.whatsapp.com/KYyHyXwM4PPKeiZQ8He9QC" target="_blank">Entrar al grupo de WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>Electro Charger © 2025 - Innovación, tecnología y sostenibilidad ⚡</p>
+  </footer>
+</body>
+</html>
